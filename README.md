@@ -4,7 +4,7 @@ Ferramenta de uso para testes: Eclipse
 
 Acesse a pasta src/test/java;
 
-<b> Dentro dela teremos varios testes utilizando java com testes de APi ServeRest <b>
+<h1> Dentro dela teremos varios testes utilizando java com testes de APi ServeRest </h1>
 
 Plano de testes
 
