@@ -4,6 +4,12 @@
 
 <b>Acesse a pasta src/test/java;</b>
 
+* test/Usuarios - acesse a pasta teste dentro de pasta /java/testes para usuarios
+* testslogin
+* testsprodutos
+* testscarrinhos
+
+
 <h1> Dentro dela teremos varios testes utilizando java com testes de APi ServeRest </h1>
 
 <h3>Plano de testes</h3>
