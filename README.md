@@ -8,7 +8,7 @@
 
 <h3>Plano de testes</h3>
 
-<h3>Nome Projeto:</h3>h3>
+<h3>Nome Projeto:</h3>
 
 API ServeRest
 
